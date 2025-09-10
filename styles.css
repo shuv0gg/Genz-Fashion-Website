@@ -90,3 +90,71 @@ nav h2 {
 .image-div {
   margin-top: 20px;
 }
+main h2 {
+  margin-top: 49px;
+  margin-left: 135px;
+  color: #363958;
+  font-family: "Bebas Neue";
+  font-size: 48px;
+  font-weight: 400;
+}
+.woman-jacket-div {
+  display: flex;
+  margin: 21px 135px 0px 135px;
+  gap: 48px;
+}
+.j-div {
+  width: 370px;
+  height: 550px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.05);
+  /* border: 1px solid black; */
+  margin-bottom: 10px;
+}
+.jacket-div {
+  width: 334px;
+  height: 327px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: #f1f1f1;
+  /* border: 1px solid black; */
+  margin: 18px;
+}
+.woman-jacket-div img {
+  width: 293px;
+  height: 293px;
+  flex-shrink: 0;
+  padding: 22px 21px 12px 20px;
+}
+.j-div h4 {
+  color: #363958;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  padding-left: 18px;
+}
+.j-div p {
+  color: #3e3e3e;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  padding-left: 18px;
+}
+
+.price-div {
+  display: flex;
+  margin-top: 12px;
+  gap: 79px;
+  padding-left: 18px;
+}
+.price-div h5 {
+  color: #fabe4c;
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
