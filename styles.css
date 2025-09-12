@@ -224,7 +224,7 @@ main h2 {
   line-height: 26px;
 }
 
-/* Mobile-Responsive max-width: 436px */
+/* Mobile-Responsive max-width: 649px */
 
 @media screen and (max-width: 649px) {
   header {
@@ -320,101 +320,7 @@ main h2 {
     margin: auto;
   }
 }
-
-/* @media screen and (min-width: 437px) and (max-width: 749px) {
-  header {
-    margin-bottom: 120px;
-    background-image: none;
-  }
-  nav {
-    flex-direction: column;
-    padding: 28px 20px 0px 10px;
-  }
-  nav > div {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  nav ul {
-    display: none !important;
-  }
-  .icon {
-    display: flex !important;
-    margin-left: 130px;
-  }
-
-  nav h2 {
-    font-size: 16.835px;
-  }
-  nav img {
-    width: 37.038px;
-    height: 26px;
-  }
-  .primary-btn i {
-    display: none;
-  }
-  .header-section {
-    flex-direction: column;
-    justify-content: center;
-    margin: auto;
-    gap: 50px;
-    padding: 0px;
-    width: 100%;
-    overflow: hidden;
-  }
-  .header-text {
-    margin: auto;
-    margin-top: 50px;
-  }
-  .header-section h1 {
-    max-width: 280px;
-    font-size: 60px;
-  }
-  .header-section p {
-    font-size: 16px;
-    margin-right: auto;
-  }
-  .image-div img {
-    max-width: 85%;
-    height: auto;
-    display: block;
-    margin: auto;
-  }
-  main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: auto;
-  }
-  main h2 {
-    text-align: center;
-    margin: auto;
-  }
-
-  .woman-jacket-div {
-    flex-direction: column;
-    justify-content: center;
-    margin: auto;
-    gap: 20px;
-  }
-  .facilities-section {
-    flex-direction: column;
-    justify-content: center;
-    margin: auto;
-  }
-  .icons-div {
-    width: 90%;
-    margin: auto;
-    margin-top: 50px;
-  }
-
-  .shopping-div img {
-    max-width: 85%;
-    height: auto;
-    display: block;
-    margin: auto;
-  }
-} */
+/* Mobile-Responsive max-width: 1024px */
 @media screen and (min-width: 650px) and (max-width: 1024px) {
   /* * {
     padding: 0px;
